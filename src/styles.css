@@ -137,14 +137,16 @@ p {
 }
 
 .sub-section {
-    background-color: lightblue;
+    color: white;
+    background: rgb(6,3,38);
+    background: linear-gradient(180deg, rgba(6,3,38,1) 0%, rgba(9,9,121,1) 28%, rgba(173,216,230,1) 100%);
     display: flex;
     justify-content: space-around;
     padding: 80px;
 }
 
 .sub-section-alt {
-    background-color: lightblue;
+    background: lightblue;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -176,7 +178,7 @@ p {
 .project-card{
     width: 300px;
     height: 500px;
-    box-shadow: 5px 5px 20px gray;
+    box-shadow: 5px 5px 20px black;
     margin: 10px;
 }
 
