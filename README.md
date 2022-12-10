@@ -1,3 +1,3 @@
 # lfourl.github.io
 Welcome to my portfolio website! 
-Tis a work in progress, but it's getting there!
+Take a look and feel free to contact me!
