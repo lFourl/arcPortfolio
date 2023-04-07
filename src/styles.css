@@ -177,7 +177,8 @@ p {
 
 .project-img {
     margin-top: 25px;
-    width: 250px;
+    width: 270px;
+    height: 200px;
     border-radius: 125px;
 }
 
@@ -186,6 +187,7 @@ p {
     height: 500px;
     box-shadow: 5px 5px 20px black;
     margin: 10px;
+    border-radius: 60px;
 }
 
 hr {
