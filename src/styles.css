@@ -166,6 +166,7 @@ p {
 .project-container {
     display: flex;
     justify-content: space-around;
+    margin-top: 30px;
 }
 
 @media only screen and (max-width: 1000px) {
